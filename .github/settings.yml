@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: github-registry-trial
+  description: a package to experiment with the github package registry
+  homepage: 'https://npm.im/@travi-test/github-registry-trial'
+  private: false
